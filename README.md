@@ -2,7 +2,7 @@
 
 Sou uma desenvolvedora frontend brasileira de 21 anos, apaixonada por criar interfaces limpas e intuitivas! 🚀 Atualmente curso Sistemas de Informação e foco meu desenvolvimento em frontend com Angular e TypeScript.
 
-✨ Minhas Habilidades
+## ✨ Minhas Habilidades
 
 ### 💄 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,scss,js,ts,tailwind,angular&perline=8)](https://skillicons.dev)
@@ -12,6 +12,7 @@ Sou uma desenvolvedora frontend brasileira de 21 anos, apaixonada por criar inte
 
 ### 🧩 DevOps / Infraestrutura
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx&perline=8)](https://skillicons.dev)
+
 
 ### 📊 GitHub Stats
 <div>
