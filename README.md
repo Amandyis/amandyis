@@ -14,7 +14,7 @@ Sou uma desenvolvedora frontend brasileira de 21 anos, apaixonada por criar inte
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx&perline=8)](https://skillicons.dev)
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <div>
 <a href="https://github.com/amandyis">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandyis&layout=compact&langs_count=7&theme=dracula"/>
