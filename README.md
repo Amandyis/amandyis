@@ -1,6 +1,6 @@
 # Oi, me chamo Amanda! 👋 
 
-Sou uma desenvolvedora frontend brasileira de 21 anos, apaixonada por criar interfaces limpas e intuitivas! 🚀 Atualmente curso Sistemas de Informação e foco meu desenvolvimento em frontend com Angular e TypeScript.
+Sou uma desenvolvedora frontend de 21 anos, apaixonada por criar interfaces limpas e intuitivas! 🚀 Atualmente curso Sistemas de Informação e foco meu desenvolvimento em frontend com Angular e TypeScript.
 
 ## ✨ Minhas Habilidades
 
